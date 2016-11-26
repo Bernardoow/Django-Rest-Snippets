@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = serializers.DateField($2)]]></content>
+    <tabTrigger>sdate</tabTrigger>
+    <scope>source.python</scope>
+    <description>DateField (sdate)</description>
+</snippet>
