@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = serializers.ImageField($2)]]></content>
+    <tabTrigger>simage</tabTrigger>
+    <scope>source.python</scope>
+    <description>ImageField (simage)</description>
+</snippet>
