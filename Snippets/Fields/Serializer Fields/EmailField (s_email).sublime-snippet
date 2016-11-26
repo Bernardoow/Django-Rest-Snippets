@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = serializers.EmailField($2)]]></content>
+    <tabTrigger>semail</tabTrigger>
+    <scope>source.python</scope>
+    <description>EmailField (semail)</description>
+</snippet>
