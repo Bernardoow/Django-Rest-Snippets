@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[${1:FIELDNAME} = serializers.RegexField($2)]]></content>
+    <content><![CDATA[${1:FIELDNAME} = serializers.RegexField(regex=$2)]]></content>
     <tabTrigger>sregex</tabTrigger>
     <scope>source.python</scope>
     <description>RegexField (sregex)</description>
