@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[${1:FIELDNAME} = serializers.DecimalField($2)]]></content>
+    <content><![CDATA[${1:FIELDNAME} = serializers.DecimalField(max_digits=$2, decimal_places=$3 )]]></content>
     <tabTrigger>sdecimal</tabTrigger>
     <scope>source.python</scope>
     <description>DecimalField (sdecimal)</description>
