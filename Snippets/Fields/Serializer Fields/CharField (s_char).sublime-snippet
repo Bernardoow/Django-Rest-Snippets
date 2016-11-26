@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = serializers.CharField($2)]]></content>
+    <tabTrigger>schar</tabTrigger>
+    <scope>source.python</scope>
+    <description>CharField (schar)</description>
+</snippet>
