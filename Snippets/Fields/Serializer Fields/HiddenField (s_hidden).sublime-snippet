@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = serializers.HiddenField($2)]]></content>
+    <tabTrigger>shidden</tabTrigger>
+    <scope>source.python</scope>
+    <description>HiddenField (shidden)</description>
+</snippet>
