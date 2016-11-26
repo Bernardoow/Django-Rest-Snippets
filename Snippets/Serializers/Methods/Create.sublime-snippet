@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+def create(self, validated_data):
+    ${2:# TODO: Define create things here}
+    ]]></content>
+    <tabTrigger>screate</tabTrigger>
+    <scope>source.python</scope>
+    <description>Create of Serializer</description>
+</snippet>
