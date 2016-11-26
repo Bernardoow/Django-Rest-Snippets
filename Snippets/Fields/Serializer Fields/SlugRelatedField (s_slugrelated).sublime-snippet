@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = serializers.SlugRelatedField($2)]]></content>
+    <tabTrigger>sslugrelated</tabTrigger>
+    <scope>source.python</scope>
+    <description>SlugRelatedField (sslugrelated)</description>
+</snippet>
