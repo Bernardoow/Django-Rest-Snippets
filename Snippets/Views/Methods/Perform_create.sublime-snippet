@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+def perform_create(self, serializer):
+    ${2:# TODO: Define perform_create things here}
+    ]]></content>
+    <tabTrigger>perfomecreate</tabTrigger>
+    <scope>source.python</scope>
+    <description>Perform Create</description>
+</snippet>
