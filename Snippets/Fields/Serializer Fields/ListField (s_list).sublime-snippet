@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = serializers.ListField($2)]]></content>
+    <tabTrigger>slist</tabTrigger>
+    <scope>source.python</scope>
+    <description>ListField (slist)</description>
+</snippet>
