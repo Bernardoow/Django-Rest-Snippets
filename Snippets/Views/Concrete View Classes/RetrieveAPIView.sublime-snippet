@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+class Retrieve${1:NAME}View(generics.RetrieveAPIView):
+    queryset = ${1:NAME}.objects.all()
+    serializer_class = ${1:NAME}Serializer
+]]></content>
+    <tabTrigger>retrieveapiview</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

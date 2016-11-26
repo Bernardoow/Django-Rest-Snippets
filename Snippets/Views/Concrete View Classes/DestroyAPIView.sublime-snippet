@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+class Destroy${1:NAME}View(generics.DestroyAPIView):
+    queryset = ${1:NAME}.objects.all()
+    serializer_class = ${1:NAME}Serializer
+]]></content>
+    <tabTrigger>destroyapiview</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

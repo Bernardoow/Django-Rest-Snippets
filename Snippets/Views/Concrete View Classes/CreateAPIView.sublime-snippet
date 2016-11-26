@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+class Create${1:NAME}View(generics.CreateAPIView):
+    serializer_class = ${1:NAME}Serializer
+]]></content>
+    <tabTrigger>createapiview</tabTrigger>
+    <scope>source.python</scope>
+</snippet>
