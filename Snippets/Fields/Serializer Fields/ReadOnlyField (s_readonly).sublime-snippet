@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = serializers.ReadOnlyField($2)]]></content>
+    <tabTrigger>sreadonly</tabTrigger>
+    <scope>source.python</scope>
+    <description>ReadOnlyField (sreadonly)</description>
+</snippet>
