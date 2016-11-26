@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[${1:FIELDNAME} = serializers.JSONField($2)]]></content>
+    <content><![CDATA[${1:FIELDNAME} = serializers.JSONField(binary=$2)]]></content>
     <tabTrigger>sjson</tabTrigger>
     <scope>source.python</scope>
     <description>JSONField (sjson)</description>
