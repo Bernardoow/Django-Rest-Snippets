@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+class {1:NAME}APIView(APIView):
+    ${2:# TODO: Define form fields here}
+]]></content>
+    <tabTrigger>apiview</tabTrigger>
+    <scope>source.python</scope>
+</snippet>
