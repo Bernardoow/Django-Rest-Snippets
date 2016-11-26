@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = serializers.IntegerField($2)]]></content>
+    <tabTrigger>sint</tabTrigger>
+    <scope>source.python</scope>
+    <description>IntegerField (sint)</description>
+</snippet>
