@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = serializers.NullBooleanField($2)]]></content>
+    <tabTrigger>snullbool</tabTrigger>
+    <scope>source.python</scope>
+    <description>NullBooleanField (snullbool)</description>
+</snippet>
