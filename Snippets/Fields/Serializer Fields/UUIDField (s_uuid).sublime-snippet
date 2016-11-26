@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = serializers.UUIDField($2)]]></content>
+    <tabTrigger>suuid</tabTrigger>
+    <scope>source.python</scope>
+    <description>UUIDField (suuid)</description>
+</snippet>
