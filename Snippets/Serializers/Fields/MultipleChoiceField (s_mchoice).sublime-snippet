@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[${1:FIELDNAME} = serializers.MultipleChoiceField($2)]]></content>
+    <content><![CDATA[${1:FIELDNAME} = serializers.MultipleChoiceField(choices=$2)]]></content>
     <tabTrigger>smchoice</tabTrigger>
     <scope>source.python</scope>
     <description>MultipleChoiceField (smchoice)</description>
