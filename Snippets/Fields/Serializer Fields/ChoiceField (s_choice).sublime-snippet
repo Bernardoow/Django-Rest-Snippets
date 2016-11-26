@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = serializers.ChoiceField($2)]]></content>
+    <tabTrigger>schoice</tabTrigger>
+    <scope>source.python</scope>
+    <description>ChoiceField (schoice)</description>
+</snippet>
