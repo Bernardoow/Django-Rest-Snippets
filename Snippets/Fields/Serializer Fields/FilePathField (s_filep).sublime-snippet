@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = serializers.FilePathField($2)]]></content>
+    <tabTrigger>sfilep</tabTrigger>
+    <scope>source.python</scope>
+    <description>FilePathField (sfilep)</description>
+</snippet>
