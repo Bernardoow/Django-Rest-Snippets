@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = serializers.PrimaryKeyRelatedField($2)]]></content>
+    <tabTrigger>spkr</tabTrigger>
+    <scope>source.python</scope>
+    <description>PrimaryKeyRelatedField (spkr)</description>
+</snippet>
