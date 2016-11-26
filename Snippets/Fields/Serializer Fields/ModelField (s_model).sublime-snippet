@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = serializers.ModelField($2)]]></content>
+    <tabTrigger>smodel</tabTrigger>
+    <scope>source.python</scope>
+    <description>ModelField (smodel)</description>
+</snippet>
