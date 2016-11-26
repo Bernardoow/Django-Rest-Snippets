@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+class ${1:MODEL_NAME}ViewSet(viewsets.ModelViewSet):
+    queryset = ${1:MODEL_NAME}.objects.all()
+    serializer_class = ${2:SERIALIZER_CLASS}
+]]></content>
+    <tabTrigger>modelviewset</tabTrigger>
+    <scope>source.python</scope>
+</snippet>
