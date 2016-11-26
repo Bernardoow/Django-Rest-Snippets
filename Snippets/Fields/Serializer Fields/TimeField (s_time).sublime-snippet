@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = serializers.TimeField($2)]]></content>
+    <tabTrigger>stime</tabTrigger>
+    <scope>source.python</scope>
+    <description>TimeField (stime)</description>
+</snippet>
