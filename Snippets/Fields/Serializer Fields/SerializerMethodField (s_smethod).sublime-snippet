@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = serializers.SerializerMethodField($2)]]></content>
+    <tabTrigger>ssmethod</tabTrigger>
+    <scope>source.python</scope>
+    <description>SerializerMethodField (ssmethod)</description>
+</snippet>
