@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = serializers.URLField($2)]]></content>
+    <tabTrigger>surl</tabTrigger>
+    <scope>source.python</scope>
+    <description>URLField (surl)</description>
+</snippet>
