@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[${1:FIELDNAME} = serializers.DictField($2)]]></content>
+    <content><![CDATA[${1:FIELDNAME} = serializers.DictField(child=$2)]]></content>
     <tabTrigger>sdict</tabTrigger>
     <scope>source.python</scope>
     <description>DictField (sdict)</description>
