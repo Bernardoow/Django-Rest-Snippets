@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = serializers.FloatField($2)]]></content>
+    <tabTrigger>sfloat</tabTrigger>
+    <scope>source.python</scope>
+    <description>FloatField (sfloat)</description>
+</snippet>
