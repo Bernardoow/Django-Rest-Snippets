@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+class ${1:MODELNAME}Form(serializers.ModelSerializer):
+    class Meta:
+        model = $1
+        fields = ('$2',)
+    ]]></content>
+    <tabTrigger>ModelSerializer</tabTrigger>
+    <scope>source.python</scope>
+    <description>ModelSerializer</description>
+</snippet>
