@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = serializers.FileField($2)]]></content>
+    <tabTrigger>sfile</tabTrigger>
+    <scope>source.python</scope>
+    <description>FileField (sfile)</description>
+</snippet>
