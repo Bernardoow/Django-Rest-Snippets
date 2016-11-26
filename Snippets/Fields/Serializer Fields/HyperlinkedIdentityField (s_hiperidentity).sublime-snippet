@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = serializers.HyperlinkedIdentityField($2)]]></content>
+    <tabTrigger>shiperidentity</tabTrigger>
+    <scope>source.python</scope>
+    <description>HyperlinkedIdentityField (shiperidentity)</description>
+</snippet>
