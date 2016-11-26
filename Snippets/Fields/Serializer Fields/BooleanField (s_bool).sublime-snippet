@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = serializers.BooleanField($2)]]></content>
+    <tabTrigger>sbool</tabTrigger>
+    <scope>source.python</scope>
+    <description>BooleanField (sbool)</description>
+</snippet>
