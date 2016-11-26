@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = serializers.IPAddressField($2)]]></content>
+    <tabTrigger>sip</tabTrigger>
+    <scope>source.python</scope>
+    <description>IPAddressField (ip)</description>
+</snippet>
