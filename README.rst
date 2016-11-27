@@ -75,6 +75,43 @@ Snippets for Django REST serializer classes
  modelserializer ``Model Serializer``
 ================ ======================================================
 
+Snippets for Concrete View Classes
+----------------------------------
+============================= =========================================
+ Abbreviation                        Tag
+============================= =========================================
+ apiview                      ``APIView``
+ createapiview                ``CreateAPIView``
+ destroyapiview               ``DestroyAPIView``
+ listapiview                  ``ListAPIView``
+ listcreateapiview            ``ListCreateAPIView``
+ retrieveapiview              ``RetrieveAPIView``
+ retrievedestroyapiview       ``RetrieveDestroyAPIView``
+ retrieveupdateapiview        ``RetrieveUpdateAPIView``
+ retrieveupdatedestroyapiview ``RetrieveUpdateDestroyAPIView``
+ updateapiview                ``UpdateAPIView``
+============================= =========================================
+
+Snippets for View Methods
+-------------------------
+============================= =========================================
+ Abbreviation                        Tag
+============================= =========================================
+ perfomecreate                ``perform_create``
+ perfomedelete                ``perform_destroy``
+ perfomeupdate                ``perform_update``
+============================= =========================================
+
+Snippets for ViewSet
+--------------------
+===================== =================================================
+ Abbreviation                        Tag
+===================== =================================================
+ viewset              ``ViewSet``
+ readonlymodelviewset ``ReadOnlyModelViewSet``
+ modelviewset         ``ModelViewSet``
+===================== =================================================
+
 Completions
 -----------
 
