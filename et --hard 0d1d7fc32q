@@ -1,0 +1,395 @@
+[33mcommit 1c0051161c12c4be4602a486b62bd23cd94fa3e2[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sun Nov 27 08:58:30 2016 -0200
+
+    changed trigger ssr to sslugrrelated
+
+[33mcommit e1df4a5a8ad7434d60d6132d3f4ef375ab73f3e2[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sun Nov 27 08:57:09 2016 -0200
+
+    fix some erros
+
+[33mcommit e9163da653672bbae4ee7095df641660fa47b0b8[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sun Nov 27 08:53:59 2016 -0200
+
+    fix some erros
+
+[33mcommit b7fe0ca47b3fc07562d0feff237f067a36956f92[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sun Nov 27 08:03:18 2016 -0200
+
+    improve title itens
+
+[33mcommit 28665309c69a36c04e11c2f4d6bc74ca56a2d332[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sun Nov 27 08:02:11 2016 -0200
+
+    readme finished
+
+[33mcommit 47daecd1d9796a613b1cc5830f6976887478b73b[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 23:11:14 2016 -0200
+
+    fixed readme
+
+[33mcommit 50f95af199c0406230a28a37d66563ff4953d599[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 23:02:00 2016 -0200
+
+    others stuff
+
+[33mcommit 17a0fe55220519e4bbda56604f4bffa5d9c90ff5[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 23:01:52 2016 -0200
+
+    readme
+
+[33mcommit b3c7dcbe824be575c7b4b3d8c67a3fa7d12951fc[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 23:01:21 2016 -0200
+
+    added completions
+
+[33mcommit 71133847fbd57335124e3d7f621f3d45d3a62e79[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 23:00:59 2016 -0200
+
+    added license
+
+[33mcommit 063b21d912bd104da4098e4f1a5c52f7aaca0922[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 21:54:49 2016 -0200
+
+    improve serializer method Field
+
+[33mcommit 32451fcdb26fe702fd42ccc0abd99fe1008dba6a[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 21:14:44 2016 -0200
+
+    fix model Field
+
+[33mcommit 84d772253680ef79f12ba46843aece567df8c0f6[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 21:14:21 2016 -0200
+
+    fix dict Field
+
+[33mcommit 1c02566e35d6a8a74da90c9c6ab52b82053a0732[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 21:13:56 2016 -0200
+
+    fix Json Field
+
+[33mcommit f47b9cd314fbebcdb8dc8de030792ed148486b71[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 21:13:18 2016 -0200
+
+    fix List Field
+
+[33mcommit 58f4e023b81acd68cc51ed90878a8ffe16f5e3d2[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 21:12:42 2016 -0200
+
+    fix MultipleChoice Field
+
+[33mcommit 20759c2296723bb45928f46ff4eb1c817fa8d1cd[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 21:12:22 2016 -0200
+
+    fix Choice Field
+
+[33mcommit 024a5223326a23a5fcd766645a6cc658451ecfdd[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 21:11:31 2016 -0200
+
+    fix Decimal Field
+
+[33mcommit dfb8728da838de2229cbd828938c3ae16e54fbf9[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 21:10:24 2016 -0200
+
+    fix FilePath Field
+
+[33mcommit cfe26f634193627555fad143e1e743a35405dba5[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 21:09:31 2016 -0200
+
+    fix Regex Field
+
+[33mcommit f0503a37d338a6ec82c521b9f3469bd990681ea6[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 21:07:47 2016 -0200
+
+    views methods
+
+[33mcommit 096c5fa4c8ec2cb697c4f61814266767ef587c11[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 21:07:15 2016 -0200
+
+    Serializers Methods
+
+[33mcommit 87876a9366b30471debd4eef783511a13aec55e9[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 19:17:24 2016 -0200
+
+    some file dropeds
+
+[33mcommit 05c92c7a395e7fedfdbae5aefa880ae3f309777a[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 19:16:56 2016 -0200
+
+    Concrete View Classes
+
+[33mcommit e25a099dc5256724eddeed20938ab1f07a2e31f5[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 19:16:01 2016 -0200
+
+    fixed viewset remove invalid words
+
+[33mcommit b819cef308925eca991406b2b2be2f9a1c1f5b5d[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 19:14:33 2016 -0200
+
+    fixed viewset remove invalid words
+
+[33mcommit 8f7a696f3247338ca32aeba9ea995f3c8053e3a2[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 19:13:56 2016 -0200
+
+    Concrete View Classes
+
+[33mcommit e5dc446dbbafc5b66f6633fbbb73c5fc62f6c599[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:47:23 2016 -0200
+
+    ViewSet class
+
+[33mcommit db6a3d8e418b7fc94f828a49bb4eb639c892f309[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:47:10 2016 -0200
+
+    READONLYModelViewSet class
+
+[33mcommit 8355178b2fbba8cc9290e1b9e39e4eb14565159b[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:44:22 2016 -0200
+
+    ModelViewSet class
+
+[33mcommit 5778a18f825e43d11a68822ee52ba14c0c7f8692[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:40:16 2016 -0200
+
+    model serializer class
+
+[33mcommit aa273d418ec7230e333e8c1908f785da70996eb5[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:40:03 2016 -0200
+
+    serializer class
+
+[33mcommit 5e0ed705f4eb3e138ed86b9b66cbb3e84d6b79c9[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:37:10 2016 -0200
+
+    slugrelated
+
+[33mcommit d37cd370efdeffa1b6ca5487731fb94bc4aa45db[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:35:34 2016 -0200
+
+    HyperlinkedIdentityField field
+
+[33mcommit a0416c39c6fca55d7da2b4eaffa7c848d11aeb95[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:33:38 2016 -0200
+
+    HyperlinkedRelatedField field
+
+[33mcommit f616fe7249eadbbebd0c652406d9ea4700bd7c26[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:32:35 2016 -0200
+
+    PrimaryKeyRelatedField field
+
+[33mcommit 82e1c0cfa583fac7407c869d5df130c79cea1426[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:31:41 2016 -0200
+
+    StringRelatedField field
+
+[33mcommit fdfa1f649bfa337ea9f9807d67cafd2f895c8d4e[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:24:34 2016 -0200
+
+    serializer method field
+
+[33mcommit a9d46690ed5ac09eb3608a4ae0d2ed95d717bab1[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:22:32 2016 -0200
+
+    model field
+
+[33mcommit 8d1b344a03bb1adf8009a9527084e733ad901fed[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:22:14 2016 -0200
+
+    hidden field
+
+[33mcommit ea05226b3cdddbcf251eadc8dcf13bf79952939f[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:20:16 2016 -0200
+
+    readonly field
+
+[33mcommit fd8226584bc77ba47b00c1c35fc70b885090ce09[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:18:58 2016 -0200
+
+    json field
+
+[33mcommit b9ed30463e373ced0d0517b9bcc47448b0b1e766[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:18:07 2016 -0200
+
+    dict field
+
+[33mcommit 8a9f45ba7825bd571a1f113d9403f8949759b5b7[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:17:25 2016 -0200
+
+    list field
+
+[33mcommit 3216ab673b07389d506fcd53b813fd0688addc72[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:16:18 2016 -0200
+
+    image field
+
+[33mcommit 1b825172e4000ac97c56eb6575b60796a2b11c58[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:15:41 2016 -0200
+
+    file field
+
+[33mcommit 05d22114325b4c33c631b0a26cb4a8f0ca941b8a[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:14:14 2016 -0200
+
+    multiple choice field
+
+[33mcommit c03be7a0b130592431c63ff1f559b0c8691e32db[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:13:07 2016 -0200
+
+    choice field
+
+[33mcommit 2913ad8a316bede255b533034bc97af375c181b3[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:11:10 2016 -0200
+
+    duration field
+
+[33mcommit 3cf9efe712a8cc8d1dbc3edb07e254993ca74ac1[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:10:01 2016 -0200
+
+    time field
+
+[33mcommit 5447bf17dcabcacaccebe91f285c774f740a9f3f[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:09:29 2016 -0200
+
+    date field
+
+[33mcommit 257228b81f6146b1dc414b20b3cb9717457d8eae[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:08:25 2016 -0200
+
+    datetime field
+
+[33mcommit 5e449e35eb850c1772c8b9aacbad1f19b196d858[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:07:22 2016 -0200
+
+    decimal field
+
+[33mcommit a5cc91a44746ed8ce8c5931961cb88f9caa96543[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:06:20 2016 -0200
+
+    float field
+
+[33mcommit 45507b5b1d5750bc43eecc17992f9a57aff5f5ef[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:05:17 2016 -0200
+
+    integer field
+
+[33mcommit 92273213c63cbf9b28e37e5ea0952bfd48a01a22[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:03:56 2016 -0200
+
+    ip field
+
+[33mcommit a745104008a8db4a62203c2f4eee6b277c186cf5[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:03:44 2016 -0200
+
+    filepath field
+
+[33mcommit 08c28efc721f8f995d3214ac9389103d084406af[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 18:03:25 2016 -0200
+
+    uuid field
+
+[33mcommit c3412d5d10e0c68a8b2046d4c9b72da49858f557[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 17:59:08 2016 -0200
+
+    url field
+
+[33mcommit 712f6922747832fa273b42fd65c5d3f3774894e7[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 17:56:23 2016 -0200
+
+    slug field
+
+[33mcommit 34c45ae482f27a26a7808f928aa84679724505dc[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 17:55:09 2016 -0200
+
+    regex field
+
+[33mcommit 9e5b9472d90d516fb2d64739851febae4221505f[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 17:54:11 2016 -0200
+
+    email field
+
+[33mcommit 465e3ae030d54ebab6d13c59d149b1627a9cbc68[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 17:52:21 2016 -0200
+
+    char field
+
+[33mcommit ea07c635af84fe8dd01c740877e8f4fa1be85752[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 17:45:18 2016 -0200
+
+    nullboolean field
+
+[33mcommit d671252d441d895a2a635a28f1793bad1f58e302[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 17:42:32 2016 -0200
+
+    boolean field
+
+[33mcommit 53f19fec05a4b9e62f3281628945bdb054f521a4[m
+Author: Bernardo Gomes <bgomesdeabreu@gmail.com>
+Date:   Sat Nov 26 17:21:46 2016 -0200
+
+    gitignore
