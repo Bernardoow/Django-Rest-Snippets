@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[${1:FIELDNAME} = serializers.HyperlinkedRelatedField($2)]]></content>
-    <tabTrigger>shr</tabTrigger>
+    <tabTrigger>shyperlinkedelated</tabTrigger>
     <scope>source.python</scope>
-    <description>HyperlinkedRelatedField (shr)</description>
+    <description>HyperlinkedRelatedField (shyperlinkedelated)</description>
 </snippet>
