@@ -1,0 +1,11 @@
+{
+    "scope": "source.python",
+
+    "completions":
+    [
+        { "trigger": "read_only", "contents": "read_only=${1:False}"},
+        { "trigger": "write_only", "contents": "write_only=${1:False}"},
+        { "trigger": "required", "contents": "required=${1:True}"},
+        { "trigger": "allow_null", "contents": "allow_null=${1:True}" }
+    ]
+}
