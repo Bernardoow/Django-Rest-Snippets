@@ -17,7 +17,7 @@ Installation
 
 Or use PackageControl.
 
-Snippets for Django REST serializer fields
+Snippets for serializer fields
 ------------------------------------------
 =============== ======================================================
  Abbreviation                        Tag
@@ -57,7 +57,7 @@ Snippets for Django REST serializer fields
  suuid          ``serializers.UUIDField()``
 =============== ======================================================
 
-Snippets for Django REST serializer methods
+Snippets for serializer methods
 -------------------------------------------
 =============== ======================================================
  Abbreviation                        Tag
@@ -66,7 +66,7 @@ Snippets for Django REST serializer methods
  update         ``def update(self, instance, validated_data)``
 =============== ======================================================
 
-Snippets for Django REST serializer classes
+Snippets for serializer classes
 -------------------------------------------
 ================ ======================================================
  Abbreviation                        Tag
