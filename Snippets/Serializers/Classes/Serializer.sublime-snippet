@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
 class ${1:NAME}Serializer(serializers.Serializer):
-    ${2:# TODO: Define form fields here}
+    ${2:# TODO: Define serializer fields here}
     ]]></content>
     <tabTrigger>serializer</tabTrigger>
     <scope>source.python</scope>
