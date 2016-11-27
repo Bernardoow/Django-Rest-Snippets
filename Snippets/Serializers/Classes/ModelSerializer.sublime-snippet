@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-class ${1:MODELNAME}Form(serializers.ModelSerializer):
+class ${1:MODELNAME}Serializer(serializers.ModelSerializer):
     class Meta:
         model = $1
         fields = ('$2',)

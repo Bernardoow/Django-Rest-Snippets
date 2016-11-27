@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-class ${1:SerializerNAME}(serializers.Serializer):
+class ${1:NAME}Serializer(serializers.Serializer):
     ${2:# TODO: Define form fields here}
     ]]></content>
     <tabTrigger>serializer</tabTrigger>
