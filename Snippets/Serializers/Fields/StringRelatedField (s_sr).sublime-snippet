@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[${1:FIELDNAME} = serializers.StringRelatedField($2)]]></content>
-    <tabTrigger>ssr</tabTrigger>
+    <tabTrigger>sslugrrelated</tabTrigger>
     <scope>source.python</scope>
-    <description>StringRelatedField (ssr)</description>
+    <description>StringRelatedField (sslugrrelated)</description>
 </snippet>
