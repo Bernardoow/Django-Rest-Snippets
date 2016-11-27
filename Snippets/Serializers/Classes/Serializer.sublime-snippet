@@ -3,7 +3,7 @@
 class ${1:SerializerNAME}(serializers.Serializer):
     ${2:# TODO: Define form fields here}
     ]]></content>
-    <tabTrigger>Serializer</tabTrigger>
+    <tabTrigger>serializer</tabTrigger>
     <scope>source.python</scope>
     <description>Serializer</description>
 </snippet>

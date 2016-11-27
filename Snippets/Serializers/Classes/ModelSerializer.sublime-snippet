@@ -5,7 +5,7 @@ class ${1:MODELNAME}Form(serializers.ModelSerializer):
         model = $1
         fields = ('$2',)
     ]]></content>
-    <tabTrigger>ModelSerializer</tabTrigger>
+    <tabTrigger>modelserializer</tabTrigger>
     <scope>source.python</scope>
     <description>ModelSerializer</description>
 </snippet>
